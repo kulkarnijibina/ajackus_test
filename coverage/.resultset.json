@@ -1,0 +1,84 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/home/proto/work/test/test_task/test/controllers/messages_controller_test.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/proto/work/test/test_task/test/mailers/message_mailer_test.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/proto/work/test/test_task/test/models/message_test.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          0,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1611392562
+  }
+}
