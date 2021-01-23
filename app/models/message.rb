@@ -3,7 +3,7 @@ class Message < ApplicationRecord
 	after_save :send_mail
 	validate :validate_email
 	def send_mail
-		MessageMailer.send_message_email.deliver_later
+		MessageMailer.with(message_id: self.id).send_message_email.deliver_later
 	end
 
 	def validate_email
