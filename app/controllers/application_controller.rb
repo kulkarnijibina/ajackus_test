@@ -13,6 +13,6 @@ class ApplicationController < ActionController::Base
 	end
 
 	def render_success data = {}
-	  render status: :ok, json: { message: 'success' }.merge(data)
+	  render json: { message: 'success' }.merge(data)
 	end
 end

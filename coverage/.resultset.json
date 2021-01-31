@@ -80,5 +80,197 @@
       }
     },
     "timestamp": 1611392562
+  },
+  "RSpec": {
+    "coverage": {
+      "/home/proyt/project/test_cases/ajackus_test/app/controllers/messages_controller.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/home/proyt/project/test_cases/ajackus_test/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          3,
+          3,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/proyt/project/test_cases/ajackus_test/spec/mailers/message_mailer_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          2,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/proyt/project/test_cases/ajackus_test/app/models/message.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          11,
+          9,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/proyt/project/test_cases/ajackus_test/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/proyt/project/test_cases/ajackus_test/spec/models/message_spec.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/proyt/project/test_cases/ajackus_test/spec/routing/messages_controller_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/proyt/project/test_cases/ajackus_test/spec/views/messages/index.html.erb_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/proyt/project/test_cases/ajackus_test/app/mailers/message_mailer.rb": {
+        "lines": [
+          1,
+          1,
+          3,
+          3,
+          null,
+          null
+        ]
+      },
+      "/home/proyt/project/test_cases/ajackus_test/app/mailers/application_mailer.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1612122534
   }
 }

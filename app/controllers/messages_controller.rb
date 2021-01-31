@@ -8,9 +8,9 @@ class MessagesController < ApplicationController
   def create
     message = Message.new(message_params)
     respond_to do |format|
-      if message.save!
+      if message.save
         format.js do
-          render_success data: {message: message}
+          render_success data: {message: message, status: 201}
         end
       else
         format.js do
